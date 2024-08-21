@@ -17,10 +17,10 @@ We extract the data from <a href="https://www.sec.gov/search-filings">SEC's Offi
 </div>
 We will be using 🦙 <a href="https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/">llama parse</a> to parse the data. Since llama parse only accepts pdf files as input we will be converting the html files into pdf. After that we will merge all the parsed data into one single .MD file.
 <div align="left">
-<h1>Analysis/h1>
+<h1>Analysis</h1>
 </div>
 We will be using RAG approach. We first split the data into small chunks using RecursiveCharacterTextSplitter(), Then we embed the data using 'BAAI/bge-base-en-v1.5' model. We then use qdrant to create a vector database which also contains a vector search engine for RAG. We use flashrankrerank to rerank the data. Finally we will be using llama 3.1 llm with the help of groq API to derive insights.
 <div align="left">
-<h1>Notebook/h1>
+<h1>Notebook</h1>
 </div>
 The source code for this task is available <a href="https://github.com/mjthewalker/NVIDIA-10K-Analysis/blob/main/180dc.ipynb">here</a>
