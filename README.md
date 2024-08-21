@@ -32,3 +32,6 @@ The source code for this task is available <a href="https://github.com/mjthewalk
 </div>
 <img src="fa1.jpg">
 <img src="fa2.jpg">
+<div align="left">
+<h2>Visualizations</h2>
+</div>
