@@ -23,4 +23,4 @@ We will be using RAG approach. We first split the data into small chunks using R
 <div align="left">
 <h1>Notebook/h1>
 </div>
-The source code for this task is available <a href="https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/">here</a>
+The source code for this task is available <a href="https://github.com/mjthewalker/NVIDIA-10K-Analysis/blob/main/180dc.ipynb">here</a>
