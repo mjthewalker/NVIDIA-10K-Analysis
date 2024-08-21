@@ -30,4 +30,5 @@ The source code for this task is available <a href="https://github.com/mjthewalk
 <div align="left">
 <h2>Financial Analysis</h2>
 </div>
-<img src=""
+<img src="fa1.jpg">
+<img src="fa2.jpg">
