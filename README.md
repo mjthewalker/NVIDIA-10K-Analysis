@@ -4,5 +4,7 @@
   
 </div>
 <br/>
-## About the task
+<div align="left">
+<h1>About the task</h1>
+</div>
 In this task we will analyze the SEC 10K reports of NVIDIA over the last 5 years and derive insights and conclude whether the company grew over the years or not.
