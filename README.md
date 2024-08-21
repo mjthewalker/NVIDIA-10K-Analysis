@@ -28,12 +28,12 @@ The source code for this task is available <a href="https://github.com/mjthewalk
 <h1>Results</h1>
 </div>
 <div align="left">
-<h2>Financial Analysis</h2>
+<h1>Financial Analysis</h1>
 </div>
 <img src="fa1.jpg">
 <img src="fa2.jpg">
 <div align="left">
-<h2>Visualizations</h2>
+<h1>Visualizations</h1>
 </div>
 <img src="v1.jpg">
 <img src="v5.jpg">
