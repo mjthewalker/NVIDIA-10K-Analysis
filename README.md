@@ -40,4 +40,6 @@ The source code for this task is available <a href="https://github.com/mjthewalk
 <img src="v2.jpg">
 <img src="v3.jpg">
 <img src="v4.jpg">
-
+<div align="left">
+<h1>Creative Insights</h1>
+</div>
