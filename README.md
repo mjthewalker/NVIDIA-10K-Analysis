@@ -43,3 +43,4 @@ The source code for this task is available <a href="https://github.com/mjthewalk
 <div align="left">
 <h1>Creative Insights</h1>
 </div>
+<img src="i1.jpg">
