@@ -1,6 +1,6 @@
-# NVIDIA-10K-Analysis
 <div align="center">
-  <h1>🗣️ Large Language Model Course</h1>
+  <h1>🗣️ Mohnish - 180DC REC</h1>
+  <h2>🗣️ NVIDIA 10K ANALYSIS(2020-2024)</h2>
   <p align="center">
     🐦 <a href="https://twitter.com/maximelabonne">Follow me on X</a> • 
     🤗 <a href="https://huggingface.co/mlabonne">Hugging Face</a> • 
