@@ -24,3 +24,10 @@ We will be using RAG approach. We first split the data into small chunks using R
 <h1>Notebook</h1>
 </div>
 The source code for this task is available <a href="https://github.com/mjthewalker/NVIDIA-10K-Analysis/blob/main/180dc.ipynb">here</a>
+<div align="left">
+<h1>Results</h1>
+</div>
+<div align="left">
+<h2>Financial Analysis</h2>
+</div>
+<img src=""
