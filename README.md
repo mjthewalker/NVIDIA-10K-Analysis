@@ -35,3 +35,9 @@ The source code for this task is available <a href="https://github.com/mjthewalk
 <div align="left">
 <h2>Visualizations</h2>
 </div>
+<img src="v1.jpg">
+<img src="v5.jpg">
+<img src="v2.jpg">
+<img src="v3.jpg">
+<img src="v4.jpg">
+
