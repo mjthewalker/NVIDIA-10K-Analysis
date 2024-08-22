@@ -20,6 +20,8 @@ We will be using 🦙 <a href="https://docs.llamaindex.ai/en/stable/llama_cloud/
 <h1>Analysis</h1>
 </div>
 We will be using RAG approach. We first split the data into small chunks using RecursiveCharacterTextSplitter(), Then we embed the data using 'BAAI/bge-base-en-v1.5' model. We then use qdrant to create a vector database which also contains a vector search engine for RAG. We use flashrankrerank to rerank the data. Finally we will be using llama 3.1 llm with the help of <a href="https://groq.com/">Groq</a> API to derive insights.
+
+
 <img src='rag-pipeline.png'>
 <div align="left">
 <h1>Notebook</h1>
