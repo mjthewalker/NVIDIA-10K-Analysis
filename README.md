@@ -47,11 +47,9 @@ The source code for this task is available <a href="https://github.com/mjthewalk
 
 <h1>Visualizations</h1>
 </div>
-<img src="v1.jpg">
-<img src="v5.jpg">
-<img src="v2.jpg">
-<img src="v3.jpg">
-<img src="v4.jpg">
+<img src="i5.jpg">
+<img src="i9.jpg">
+<img src="i6.jpg">
 <div align="left">
 <h1>Creative Insights</h1>
 </div>
