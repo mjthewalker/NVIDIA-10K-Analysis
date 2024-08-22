@@ -15,7 +15,7 @@ We extract the data from <a href="https://www.sec.gov/search-filings">SEC's Offi
 <div align="left">
 <h1>Data Cleaning</h1>
 </div>
-We will be using 🦙 <a href="https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/">llama parse</a> to parse the data. Since llama parse only accepts pdf files as input we will be converting the html files into pdf. After that we will merge all the parsed data into one single .MD file.
+We will be using 🦙 <a href="https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/">llama parse</a> to parse the data. Since llama parse only accepts pdf files as input we will be converting the html files into pdf. After that we will merge all the parsed data into one single <a href = "https://github.com/mjthewalker/Mohnish_231CS235_ML_WORKFLOW/blob/main/Data/final_parse.md">.MD file.</a>
 <div align="left">
 <h1>Analysis</h1>
 </div>
