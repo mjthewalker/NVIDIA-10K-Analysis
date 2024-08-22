@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="left">
-<h1>ℹ️ About the task</h1>
+<h1>About the task</h1>
 </div>
 In this task we will analyze the SEC 10K reports of <a href="https://www.nvidia.com/en-in/">NVIDIA</a> over the last 5 years and derive insights and conclude whether the company grew over the years or not. We will be using the RAG(Retrieval Augmented Generation) approach for this task.
 <div align="left">
