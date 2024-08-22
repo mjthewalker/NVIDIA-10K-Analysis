@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="left">
-<h1>About the task</h1>
+<h1>ℹ️ About the task</h1>
 </div>
 In this task we will analyze the SEC 10K reports of <a href="https://www.nvidia.com/en-in/">NVIDIA</a> over the last 5 years and derive insights and conclude whether the company grew over the years or not. We will be using the RAG(Retrieval Augmented Generation) approach for this task.
 <div align="left">
@@ -13,7 +13,7 @@ In this task we will analyze the SEC 10K reports of <a href="https://www.nvidia.
 </div>
 We extract the data from <a href="https://www.sec.gov/search-filings">SEC's Official Website</a>  using the API service provided by <a href="https://sec-api.io/">SEC-API</a>. We extract only some sections of the filings in html format.
 <div align="left">
-<h1>Data Cleaning</h1>
+<h1>🧹 Data Cleaning</h1>
 </div>
 We will be using 🦙 <a href="https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/">llama parse</a> to parse the data. Since llama parse only accepts pdf files as input we will be converting the html files into pdf. After that we will merge all the parsed data into one single <a href = "https://github.com/mjthewalker/Mohnish_231CS235_ML_WORKFLOW/blob/main/Data/final_parse.md">.MD file.</a>
 <div align="left">
