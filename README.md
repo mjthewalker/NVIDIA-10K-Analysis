@@ -24,7 +24,7 @@ We will be using RAG approach. We first split the data into small chunks using R
 
 <img src='Images/rag-pipeline.png'>
 <div align="left">
-<h1>Notebook</h1>
+<h1>📓 Notebook</h1>
 </div>
 The source code for this task is available <a href="https://github.com/mjthewalker/Mohnish_231CS235_ML_WORKFLOW/blob/main/Notebook/180dc%20(2).ipynb">here</a>
 <div align="left">
