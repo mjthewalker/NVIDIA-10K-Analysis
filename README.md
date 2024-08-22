@@ -50,6 +50,7 @@ The source code for this task is available <a href="https://github.com/mjthewalk
 <img src="i5.jpg">
 <img src="i9.jpg">
 <img src="i6.jpg">
+<img src="i7.jpg">
 <div align="left">
 <h1>Creative Insights</h1>
 </div>
