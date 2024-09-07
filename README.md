@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ Mohnish Hemanth Kumar - 180DC REC</h1>
+  <h1>⚡ Mohnish Hemanth Kumar </h1>
   <h2>🤖 NVIDIA 10K ANALYSIS(2020-2024) using 🦙 llama 3.1 </h2>
   
 </div>
